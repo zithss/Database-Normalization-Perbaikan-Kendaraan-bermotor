@@ -1,6 +1,6 @@
 # Motor Vehicle Repair Request — UNF → 3NF Normalization  
 
-**Authors:** Vanness Christian Rulianto, Rayhan Permana, Josh Manuel Kristanto, Ghazi Athari. :contentReference[oaicite:1]{index=1}
+**Authors:** Vanness Christian Rulianto, Rayhan Permana, Josh Manuel Kristanto, Ghazi Athari.
 
 ---
 
